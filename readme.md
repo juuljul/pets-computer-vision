@@ -1,6 +1,6 @@
 # pets-computer-vision
 
-## Computer vision: Algorithme de détection de la race d'un chien à l'iade d'un réseau de neurones convolutif
+## Computer vision: Algorithme de détection de la race d'un chien à l'aide d'un réseau de neurones convolutif
 
 Application de computer vision pour prédire la race d’un chien en fonction de sa photo.   
 Notebook d’analyse, prétraitement d’images et réalisation d’un premier modèle SIFT.  
